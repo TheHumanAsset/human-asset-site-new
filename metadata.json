@@ -1,0 +1,8 @@
+{
+  "name": "The Human Asset Consultancy",
+  "description": "A premium consultancy firm offering articles, resources, and expert advisory services in startup business strategy, accounting, HR, and career development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
